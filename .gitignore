@@ -1,0 +1,5 @@
+# the apple directory description
+.DS_Store
+
+# but don't ignore this file
+!.gitignore

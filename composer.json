@@ -1,0 +1,17 @@
+{
+    "name": "wick-ed/simple-pbc",
+    "type": "library",
+    "description": "Very basic trait based design by contract solution",
+    "keywords": ["Design-by-Contract", "library", "DbC", "contract", "precondition", "postcondition", "invariant"],
+    "license": "OSL 3.0",
+    "authors": [
+        {
+            "name": "Bernhard Wick",
+            "email": "b.wick@techdivision.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev"
+}
